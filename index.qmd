@@ -40,7 +40,7 @@ format: dashboard
 
 ## Row {.tabset}
 
-### Video
+### How to...
 
 **Comment rejoindre un appel video**
 
@@ -49,7 +49,7 @@ format: dashboard
 3. Cliquez sur le lien Google Meet
 4. Cliquez sur le bouton "Rejoindre"
 
-### To Do
+### To do list
 
 ```{=html}
 <iframe width="100%" height="100%" src="https://docs.google.com/document/d/1F-y6hzaYPqXR7jkvQPS1pn8XReH122_gqNqR58MsDOM/edit" frameborder="0"></iframe>
