@@ -40,7 +40,13 @@ format: dashboard
 
 ## Row {.tabset}
 
-### How to...
+### To do list
+
+```{=html}
+<iframe width="100%" height="100%" src="https://docs.google.com/document/d/1F-y6hzaYPqXR7jkvQPS1pn8XReH122_gqNqR58MsDOM/edit" frameborder="0"></iframe>
+```
+
+### Astuces
 
 **Comment rejoindre un appel video**
 
@@ -49,20 +55,31 @@ format: dashboard
 3. Cliquez sur le lien Google Meet
 4. Cliquez sur le bouton "Rejoindre"
 
-### To do list
-
-```{=html}
-<iframe width="100%" height="100%" src="https://docs.google.com/document/d/1F-y6hzaYPqXR7jkvQPS1pn8XReH122_gqNqR58MsDOM/edit" frameborder="0"></iframe>
-```
-
-# Banking
+# Finances
 
 ## Row {.tabset}
 
-### Coast Capital
+### Banking
 
 ```{=html}
 <iframe width="100%" height="100%" src="https://docs.google.com/spreadsheets/d/130LIPBLvEUcWk72fcbmgxa5LzBIVnXucX-bP0JWtpYE/edit#gid=0" frameborder="0"></iframe>
+```
+
+# Maison
+
+## Row {.tabset}
+
+### Procedures
+
+```{=html}
+<iframe width="100%" height="100%" src="https://docs.google.com/document/d/1wToFWNLcBQvldzfTx0g81NI_BbBze_YBRfvgGtG8PoQ/edit?usp=sharing" frameborder="0"></iframe>
+```
+
+
+### Parc
+
+```{=html}
+<iframe width="100%" height="100%" src="https://docs.google.com/presentation/d/19W2wyc6uQXBCuCjZFHO0xLd5-Hr7NbTGADe0aEkQvm4/edit?usp=sharing" frameborder="0"></iframe>
 ```
 
 # Parcelles
